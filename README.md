@@ -2,7 +2,7 @@
 
 A custom user interface for Chrome, designed to provide an enhanced home page and replace the default Chrome new tab page.
 
-![Chrome Custom UI](<insert_image_link_here>)
+![Chrome Custom UI](https://github.com/CodeYard01/Chrome-Custom-Ui/blob/2444a66ae7e48129efdf287e5c31a3b9aa58b6e8/Screenshot_2023-12-30_14_17_51.png)
 
 ## Project Overview
 
