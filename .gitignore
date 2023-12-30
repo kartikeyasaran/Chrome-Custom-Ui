@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+
+# Compiled files
+*.min.css
+*.min.js
